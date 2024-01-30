@@ -1,12 +1,10 @@
-Dados do aluno
+﻿Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Erik Luiz Manosso
+-Profissão: Engenheiro Eletricista;
+-Cidade: Curitiba/PR;
+-O que faz nas horas vaga: Cozinhar, ouvir musica e vídeo game;
+-Feedback sobre o curso Qualidade de Software: Curso muito bom, com vários exemplos e praticas, para não ficar apenas na teoria.
+-Feedback sobre a plataforma de estudo da EBAC: muito boa, fácil de utilizar e aparência amigável. Poderia ter material de apoio em todas as aulas, não apenas na primeira do modulo.
 
 Obrigado!!!
-
-
